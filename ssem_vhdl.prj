@@ -1,0 +1,6 @@
+vhdl work "C:\Users\waded\Documents\fpga\Baby.VGA\ipcore_dir\main.vhd"
+vhdl work "C:\Users\waded\Documents\fpga\Baby.VGA\mux.vhd"
+vhdl work "C:\Users\waded\Documents\fpga\Baby.VGA\ipcore_dir\Programs.vhd"
+vhdl work "C:\Users\waded\Documents\fpga\Baby.VGA\Debounce.vhd"
+vhdl work "C:\Users\waded\Documents\fpga\Baby.VGA\CES.vhd"
+vhdl work "C:\Users\waded\Documents\fpga\Baby.VGA\squares.vhd"

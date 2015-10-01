@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\waded\Documents\fpga\Baby.VGA\ssem.ncd
+OUTFILE=C:\Users\waded\Documents\fpga\Baby.VGA\ssem.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-5fg320
+WORKINGDIR=C:\Users\waded\Documents\fpga\Baby.VGA
+LICENSE=WebPack
+USER_INFO=208020478_0_0_635

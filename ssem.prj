@@ -1,0 +1,6 @@
+vhdl work "ipcore_dir/main.vhd"
+vhdl work "mux.vhd"
+vhdl work "ipcore_dir/Programs.vhd"
+vhdl work "Debounce.vhd"
+vhdl work "CES.vhd"
+vhdl work "squares.vhd"

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\waded\Documents\fpga\Baby.Test\Baby.RAM\clockmodule.ncd
+OUTFILE=C:\Users\waded\Documents\fpga\Baby.Test\Baby.RAM\clockmodule.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-5fg320
+WORKINGDIR=C:\Users\waded\Documents\fpga\Baby.Test\Baby.RAM
+LICENSE=WebPack
+USER_INFO=208020478_0_0_635

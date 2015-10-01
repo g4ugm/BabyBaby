@@ -1,0 +1,15 @@
+# Output products list for <SR>
+SR.asy
+SR.gise
+SR.ngc
+SR.sym
+SR.vhd
+SR.vho
+SR.xco
+SR.xise
+SR\doc\c_shift_ram_v11_0_readme.txt
+SR\doc\c_shift_ram_v11_0_vinfo.html
+SR\doc\ds228_shift_ram.pdf
+SR_flist.txt
+SR_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

@@ -1,0 +1,57 @@
+Release 14.1 Drc P.15xf (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+Sun Jul 19 23:02:51 2015
+
+drc -z ssem.ncd ssem.pcf
+
+WARNING:PhysDesignRules:812 - Dangling pin <DOB4> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB5> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB6> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB7> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB12> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB13> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB14> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB15> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB20> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB21> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB22> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB23> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB28> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB29> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB30> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB31> on
+   block:<ROM/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/
+   ramloop[0].ram.r/s3_init.ram/spram.ram.B>:<RAMB16_RAMB16B>.
+DRC detected 0 errors and 16 warnings.  Please see the previously displayed
+individual error or warning messages for more details.
